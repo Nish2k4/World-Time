@@ -1,0 +1,4 @@
+#Fri Feb 12 20:50:52 EST 2021
+base.0=/Users/dsp/AndroidStudioProjects/world_time_app/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
